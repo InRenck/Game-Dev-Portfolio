@@ -1,0 +1,14 @@
+Funcionalidades:
+
+  Movimento da Cobra: Use as teclas de direção para controlar a direção da cobra (cima, baixo, esquerda, direita).
+
+  Crescimento: A cobra cresce a cada vez que come um item.
+
+  Detecção de Colisão: O jogo termina se a cobra colidir com uma parede ou com seu próprio corpo.
+
+  Pontuação: Exiba a pontuação baseada no número de itens que a cobra comeu.
+
+Aperfeiçoamentos: 
+     Níveis de dificuldade: Aumente a velocidade da cobra conforme o jogador avança.
+     
+     Power-ups: Adicione itens especiais que dão bônus ao jogador.
